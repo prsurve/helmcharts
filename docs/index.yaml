@@ -58,6 +58,15 @@ entries:
     version: 20.3.0
   robot-shop:
   - apiVersion: v1
+    created: "2023-10-18T23:41:28.952281554+05:30"
+    description: Sample micoservices application
+    digest: f210305199d8f23a22b8437c7fab19321efdff01ff8ee3a24892d46650ef40b3
+    home: https://github.com/instana/robot-shop
+    name: robot-shop
+    urls:
+    - robot-shop-1.8.0.tgz
+    version: 1.8.0
+  - apiVersion: v1
     created: "2023-10-18T19:36:41.566792369+05:30"
     description: Sample micoservices application
     digest: 9cd2fd6c22941192370f09988983e0234a2de980f585da640f7ad6e6f3adf093
