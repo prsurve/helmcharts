@@ -2,7 +2,7 @@
 # Default is docker/robotshop/image:latest
 image:
   repo: quay.io/niklaushirt
-  version: 1.0
+  version: "1.0"
   pullPolicy: IfNotPresent
 
 # EUM configuration
