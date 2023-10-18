@@ -3,7 +3,7 @@ entries:
   example:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-18T12:57:44.673316786+05:30"
+    created: "2023-10-18T18:47:39.354629519+05:30"
     description: A Helm chart for Kubernetes
     digest: ba044bb5b5a532da69581764c40a5474303a877448645f676d4eef26ebefe1c7
     name: example
@@ -14,7 +14,7 @@ entries:
   ibm-mq:
   - apiVersion: v2
     appVersion: 9.3.0.0
-    created: "2023-10-18T12:57:44.674514871+05:30"
+    created: "2023-10-18T18:47:39.35625841+05:30"
     description: IBM MQ queue manager
     digest: d7341d30409dd02cebe939e2d173581d3cdfd8d527cd07430e34fcade116ed43
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-mq-blue-icon.png
@@ -33,7 +33,7 @@ entries:
   ibm-odm-prod:
   - apiVersion: v1
     appVersion: 8.10.5.0
-    created: "2023-10-18T12:57:44.677387472+05:30"
+    created: "2023-10-18T18:47:39.359281409+05:30"
     description: IBM Operational Decision Manager
     digest: f84573e3b72e7fa77dbebaef140ed425ff332eaad7cddf2341ceed38df59eb91
     home: https://developer.ibm.com/odm/
@@ -58,7 +58,7 @@ entries:
     version: 20.3.0
   robot-shop:
   - apiVersion: v1
-    created: "2023-10-18T12:57:44.679570566+05:30"
+    created: "2023-10-18T18:47:39.362903149+05:30"
     description: Sample micoservices application
     digest: 80dccede3091bc8f9f60c5295aacfa1c0aea36a8daa32b88133ac2c756a068f3
     home: https://github.com/instana/robot-shop
@@ -67,7 +67,7 @@ entries:
     - docs/robot-shop-1.6.0.tgz
     version: 1.6.0
   - apiVersion: v1
-    created: "2023-10-18T12:57:44.678567095+05:30"
+    created: "2023-10-18T18:47:39.361726498+05:30"
     description: Sample micoservices application
     digest: 06aecca6c59ae1e9d247ba844e32084a712ec1aac4bf2f2dacf4452861ceeb18
     home: https://github.com/instana/robot-shop
@@ -76,7 +76,7 @@ entries:
     - docs/robot-shop-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
-    created: "2023-10-18T12:57:44.677983558+05:30"
+    created: "2023-10-18T18:47:39.360239191+05:30"
     description: Sample micoservices application
     digest: a104bd5ed1143bbf8d8242c7655dcbd1b0701c137a11c48c9e57fa0652070009
     home: https://github.com/instana/robot-shop
@@ -84,4 +84,4 @@ entries:
     urls:
     - docs/robot-shop-1.4.0.tgz
     version: 1.4.0
-generated: "2023-10-18T12:57:44.672783414+05:30"
+generated: "2023-10-18T18:47:39.353014635+05:30"
