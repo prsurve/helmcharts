@@ -41,12 +41,12 @@ dispatch: {}
 
 mongodb:
   # Storage class and size to use with mongodb PVC
-  storageClassName: ocs-storagecluster-ceph-rbd
+  storageClassName: ocs-external-storagecluster-ceph-rbd
   storage: 1Gi
 
 mysql:
   # Storage class and size to use with mysql PVC
-  storageClassName: ocs-storagecluster-ceph-rbd
+  storageClassName: ocs-external-storagecluster-ceph-rbd
   storage: 1Gi
 
 payment:
@@ -61,7 +61,7 @@ ratings: {}
 
 redis:
   # Storage class and size to use with redis PVC
-  storageClassName: ocs-storagecluster-ceph-rbd
+  storageClassName: ocs-external-storagecluster-ceph-rbd
   storage: 1Gi
 
 shipping: {}
