@@ -3,7 +3,7 @@ entries:
   example:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-20T13:25:33.674610755+05:30"
+    created: "2023-10-20T13:33:04.217548765+05:30"
     description: A Helm chart for Kubernetes
     digest: ba044bb5b5a532da69581764c40a5474303a877448645f676d4eef26ebefe1c7
     name: example
@@ -14,7 +14,7 @@ entries:
   ibm-mq:
   - apiVersion: v2
     appVersion: 9.3.0.0
-    created: "2023-10-20T13:25:33.675896478+05:30"
+    created: "2023-10-20T13:33:04.218746535+05:30"
     description: IBM MQ queue manager
     digest: d7341d30409dd02cebe939e2d173581d3cdfd8d527cd07430e34fcade116ed43
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-mq-blue-icon.png
@@ -33,7 +33,7 @@ entries:
   ibm-odm-prod:
   - apiVersion: v1
     appVersion: 8.10.5.0
-    created: "2023-10-20T13:25:33.678448079+05:30"
+    created: "2023-10-20T13:33:04.221858889+05:30"
     description: IBM Operational Decision Manager
     digest: f84573e3b72e7fa77dbebaef140ed425ff332eaad7cddf2341ceed38df59eb91
     home: https://developer.ibm.com/odm/
@@ -58,7 +58,16 @@ entries:
     version: 20.3.0
   robot-shop:
   - apiVersion: v1
-    created: "2023-10-20T13:25:33.683067015+05:30"
+    created: "2023-10-20T13:33:04.21718677+05:30"
+    description: Sample micoservices application
+    digest: 970a49bc377b73f029010ea2e39f3fff8df1c4ffb424f023e94816b62fb47dbd
+    home: https://github.com/instana/robot-shop
+    name: robot-shop
+    urls:
+    - robot-shop-1.9.0.tgz
+    version: 1.9.0
+  - apiVersion: v1
+    created: "2023-10-20T13:33:04.22584068+05:30"
     description: Sample micoservices application
     digest: f210305199d8f23a22b8437c7fab19321efdff01ff8ee3a24892d46650ef40b3
     home: https://github.com/instana/robot-shop
@@ -67,7 +76,7 @@ entries:
     - docs/robot-shop-1.8.0.tgz
     version: 1.8.0
   - apiVersion: v1
-    created: "2023-10-20T13:25:33.682516046+05:30"
+    created: "2023-10-20T13:33:04.225337886+05:30"
     description: Sample micoservices application
     digest: cb3b44aef47b2fd32d396c5793a855f723dbd7e4693cf3bdafe83123995d04af
     home: https://github.com/instana/robot-shop
@@ -76,7 +85,7 @@ entries:
     - docs/robot-shop-1.8.0-rdr.tgz
     version: 1.8.0-rdr
   - apiVersion: v1
-    created: "2023-10-20T13:25:33.681951498+05:30"
+    created: "2023-10-20T13:33:04.224777672+05:30"
     description: Sample micoservices application
     digest: d2aa1da2b42e26101d674a2668ce7ca4ce95a6e8cc0efdc6be26e3eaf2ad072b
     home: https://github.com/instana/robot-shop
@@ -85,7 +94,7 @@ entries:
     - docs/robot-shop-1.8.0-mdr.tgz
     version: 1.8.0-mdr
   - apiVersion: v1
-    created: "2023-10-20T13:25:33.680857314+05:30"
+    created: "2023-10-20T13:33:04.224274536+05:30"
     description: Sample micoservices application
     digest: 37cf5b5dc7627015f6f146dd3f34f99d06878f73bde12a6056640b8d18e9ea42
     home: https://github.com/instana/robot-shop
@@ -94,7 +103,7 @@ entries:
     - docs/robot-shop-1.7.0.tgz
     version: 1.7.0
   - apiVersion: v1
-    created: "2023-10-20T13:25:33.680239662+05:30"
+    created: "2023-10-20T13:33:04.223744294+05:30"
     description: Sample micoservices application
     digest: 80dccede3091bc8f9f60c5295aacfa1c0aea36a8daa32b88133ac2c756a068f3
     home: https://github.com/instana/robot-shop
@@ -103,7 +112,7 @@ entries:
     - docs/robot-shop-1.6.0.tgz
     version: 1.6.0
   - apiVersion: v1
-    created: "2023-10-20T13:25:33.679652804+05:30"
+    created: "2023-10-20T13:33:04.223170877+05:30"
     description: Sample micoservices application
     digest: 06aecca6c59ae1e9d247ba844e32084a712ec1aac4bf2f2dacf4452861ceeb18
     home: https://github.com/instana/robot-shop
@@ -112,7 +121,7 @@ entries:
     - docs/robot-shop-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
-    created: "2023-10-20T13:25:33.679043353+05:30"
+    created: "2023-10-20T13:33:04.222430328+05:30"
     description: Sample micoservices application
     digest: a104bd5ed1143bbf8d8242c7655dcbd1b0701c137a11c48c9e57fa0652070009
     home: https://github.com/instana/robot-shop
@@ -120,4 +129,4 @@ entries:
     urls:
     - docs/robot-shop-1.4.0.tgz
     version: 1.4.0
-generated: "2023-10-20T13:25:33.674075254+05:30"
+generated: "2023-10-20T13:33:04.216489647+05:30"
